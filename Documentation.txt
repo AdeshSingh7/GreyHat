@@ -1,0 +1,3 @@
+Tabnine - Tabnine is an AI code assistant that makes you a better developer.
+Mintlify - Writing documentation sucks. Let Mintlify take care of it. Just hightlight code and see the magic.
+Github Copilot - GitHub Copilot provides autocomplete-style suggestions from an AI pair programmer as you code.
